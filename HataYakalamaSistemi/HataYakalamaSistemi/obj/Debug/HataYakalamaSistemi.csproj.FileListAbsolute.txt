@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\HataYakalamaSistemi\HataYakalamaSistemi\bin\Debug\HataYakalamaSistemi.exe.config
+C:\Users\burak\source\repos\HataYakalamaSistemi\HataYakalamaSistemi\bin\Debug\HataYakalamaSistemi.exe
+C:\Users\burak\source\repos\HataYakalamaSistemi\HataYakalamaSistemi\bin\Debug\HataYakalamaSistemi.pdb
+C:\Users\burak\source\repos\HataYakalamaSistemi\HataYakalamaSistemi\obj\Debug\HataYakalamaSistemi.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\HataYakalamaSistemi\HataYakalamaSistemi\obj\Debug\HataYakalamaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\HataYakalamaSistemi\HataYakalamaSistemi\obj\Debug\HataYakalamaSistemi.exe
+C:\Users\burak\source\repos\HataYakalamaSistemi\HataYakalamaSistemi\obj\Debug\HataYakalamaSistemi.pdb
